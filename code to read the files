@@ -1,0 +1,7 @@
+library(dplyr)
+library(readr)
+df <- list.files(path = "C:/Development/R Program/Data Set Saved Here/COVID-19-master/csse_covid_19_data/csse_covid_19_daily_reports_us", full.names = TRUE)%>%
+  lapply(read_csv) %>%
+  bind_rows
+
+gg <- subset(df,select = which(df$Date))
