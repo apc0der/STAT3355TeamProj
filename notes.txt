@@ -1,5 +1,8 @@
-#Diamond Princess and Grand Princess cases in us.csv - Cruise ship COVID hospital
-#where death rate is 0 --> clean
+# possible resources: https://docs.google.com/document/d/1uh2u-MlJcMaJuvH8m9aJkjrEv3PXpxacELh4iaZCVXI/edit
+
+CLEANING STUFF
+# Diamond Princess and Grand Princess cases in us.csv - Cruise ship COVID hospital
+# where death rate is 0 --> clean
 # keep it to the 50 states (don't include territories)
 
 # DATA WE NEED TO COLLECT
