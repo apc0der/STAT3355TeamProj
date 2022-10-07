@@ -1,1 +1,15 @@
-#Diamond Princess cases in us.csv - Cruise ship COVID hospital
+#Diamond Princess and Grand Princess cases in us.csv - Cruise ship COVID hospital
+#where death rate is 0 --> clean
+# keep it to the 50 states (don't include territories)
+
+# DATA WE NEED TO COLLECT
+# cases and deaths by state
+# coastal subset vs noncoastal subset 
+# population density map vs cases map
+#graph time vs case count
+# get timeline of COVID related events
+# death rate/proportion
+# GDP per capita vs covid cases
+# each day daily cases in us/ daily cases in the world
+# which countries shut down borders data
+# testing rate vs mortality rate
