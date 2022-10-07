@@ -6,7 +6,7 @@
 # cases and deaths by state
 # coastal subset vs noncoastal subset 
 # population density map vs cases map
-#graph time vs case count
+# graph time vs case count
 # get timeline of COVID related events
 # death rate/proportion
 # GDP per capita vs covid cases
