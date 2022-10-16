@@ -16,3 +16,4 @@ CLEANING STUFF
 # each day daily cases in us/ daily cases in the world
 # which countries shut down borders data
 # testing rate vs mortality rate
+# vaccine rate vs deaths
